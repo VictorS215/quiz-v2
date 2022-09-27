@@ -1,0 +1,23 @@
+
+
+.answers {
+text-align:center;
+margin-left:auto;
+font-size: large;
+margin-top: 100px;
+
+}
+.question {
+    text-align:center;
+    font-size: xx-large;
+}
+.answer{
+    margin-right:auto;
+margin-left:auto;
+}
+.body{
+    background-color: aqua;
+}
+.score{
+    text-align:center; 
+}
